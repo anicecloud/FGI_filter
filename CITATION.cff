@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Matlab interfaced Fuzzy Gaussian-impulsive (FGI) filter
+  for real-time CT volume filtering.
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Celia
+    family-names: Tendero Delicado
+    affiliation: Universitat Politècnica de València
+    orcid: 'https://orcid.org/0009-0002-9476-9488'
+  - given-names: Mónica
+    family-names: Chillarón Pérez
+    affiliation: Universitat Politècnica de València
+    orcid: 'https://orcid.org/0000-0002-7611-8908'
+  - given-names: Josep
+    family-names: Arnal García
+    affiliation: Universidad de Alicante
+    orcid: 'https://orcid.org/0000-0002-2105-6463'
+  - given-names: Vicent
+    family-names: Vidal Gimeno
+    affiliation: Universitat Politècnica de València
+    orcid: 'https://orcid.org/0000-0002-2384-7015'
