@@ -1,6 +1,6 @@
 # Data
 
-This data corresponds to section 4.2.3 of Integration of a GPU-accelerated 3D fuzzy filtering method with low-dose CT reconstruction, and it consists of  images reconstructed from parallel3D projections generated from CT images,  and results of processing with different denoising methods.
+This data corresponds to section 4.2.3 of Integration of a GPU-accelerated 3D fuzzy filtering method with low-dose CT reconstruction, and it consists of  images reconstructed from parallel3D projections generated from CT images,  and results of processing with different denoising methods. It has been uploaded to Zenodo: 10.5281/zenodo.18312533
 
 This work includes reconstructed and filtered images derived from the Low Dose CT Image and Projection Data (LDCT-and-Projection-Data) dataset. Modifications include preprocessing, denoising, reconstruction, and visualization.
 
